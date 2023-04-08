@@ -1,2 +1,0 @@
-language = "bash"
-run = "mcs -out:Main.exe '1040.cs' ; mono Main.exe"
