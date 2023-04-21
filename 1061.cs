@@ -31,10 +31,12 @@ public class Program {
       segTot += 60;
       minTot -= 1;
     }
+    
     if(minTot < 0) {
       minTot += 60;
       horaTot -= 1;
     }
+    
     if(horaTot < 0) {
       horaTot += 24;
       diaTot -= 1;
