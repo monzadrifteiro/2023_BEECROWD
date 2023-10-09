@@ -12,10 +12,6 @@
 
 No geral, a Beecrowd é uma plataforma interativa e educacional que visa ajudar programadores a aprimorar suas habilidades por meio de desafios de programação e competições, promovendo um ambiente de aprendizado colaborativo e desafiador.
 
-<div align="center">
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/549562)">🐧 Confira meu perfil no Beecrowd🐧</a>
-</div>
-
 ## 🎯 Desafios Resolvidos:
 
 Exercícios da plataforma Beecrowd resolvidos como forma de treinamento para diversas linguagens de programação
