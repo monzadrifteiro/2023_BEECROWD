@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.beecrowd.com.br/judge/en/login">
+  <a href="https://www.beecrowd.com.br">
     <img src="https://github.com/monzadrifteiro/2023_BEECROWD/assets/93940387/a8dd0690-3158-44ba-a5ce-3d21e32adb73" width="500">
   </a>
 </div>
